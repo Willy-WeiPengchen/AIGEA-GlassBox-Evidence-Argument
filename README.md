@@ -68,7 +68,7 @@ Distinct intellectual‑property protection boundaries remain clearly defined:
 ---
 
 ## 🤝 Ecosystem Cooperation
-**Actively promote** the co-construction of a long-term, benign, circular development ecosystem with mainstream domestic and international AI infrastructure providers including Huawei, ByteDance, DeepSeek, Alibaba, Baidu, Tencent, OpenAI, Gemini**,** and other industry players**,** and are committed to building a transparent, trustworthy, controllable**,** and inclusive global AI underlying paradigm.
+**Actively promote** the co-construction of a long-term, benign, circular development ecosystem with mainstream domestic and international AI infrastructure providers including Huawei, ByteDance, DeepSeek, Alibaba, Baidu, Tencent, OpenAI, Gemini, and other industry players, and are committed to building a transparent, trustworthy, controllable, and inclusive global AI underlying paradigm.
 
 ---
 
