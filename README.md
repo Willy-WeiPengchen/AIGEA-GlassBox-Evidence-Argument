@@ -31,14 +31,12 @@ AIGEA（人工智能玻璃盒证据论证）是一种经专利认证的透明问
 ---
 
 ## 🧩 System Technical Process (S1–S6 Standard Pipeline)
-| 步骤 | 名称 | 描述 |
-|:---|:---|:---|
-| S1 | Greedy decoding & intention anchoring | Precise output |
-| S2 | Three‑dimensional structured feature annotation | — |
-| S3 | Knowledge graph logical traceability | Full‑domain credible information collection |
-| S4 | AI intelligent recommendation + user multi‑mode | Optional open‑box argument |
-| S5 | Self‑evaluation rigorousness grading | Missing‑dimension explicit marking |
-| S6 | Off‑On bidirectional controllable | Continuous iterative reasoning |
+1. **S1** Greedy decoding & intention anchoring precise output
+2. **S2** Three‑dimensional structured feature annotation
+3. **S3** Knowledge graph logical traceability & full‑domain credible information collection
+4. **S4** AI intelligent recommendation + user multi‑mode optional open‑box argument
+5. **S5** Self‑evaluation rigorousness grading & missing‑dimension explicit marking
+6. **S6** Off‑On bidirectional controllable continuous iterative reasoning
 
 ---
 
