@@ -2,20 +2,20 @@
 AIGEA（人工智能玻璃盒证据论证）是一种经专利认证的透明问答推理框架，旨在解决传统大模型存在的黑箱生成、输出无法评估、隐藏缺陷以及单次闭环推理等问题。与传统的黑箱人工智能不同，AIGEA实现了全链路开放论证、主动自评估、显式缺失维度标注以及开-关双向可控迭代，使AI回答具备可信性、可追溯性、可评估性和可迭代性。
 
 AIGEA-GlassBox-Evidence-Argument
-Glass-box evidence argument QA system based on patent 2026109523407, featuring credible source verification, self-evaluation rating and continuous controllable Off-On iteration.
+- Glass-box evidence argument QA system based on patent 2026109523407, featuring credible source verification, self-evaluation rating and continuous controllable Off-On iteration.
 
 ---
 📌 Introduction
-AIGEA (Artificial Intelligence Glass-box Evidence Argument) is a patent-verified transparent QA reasoning framework designed to address black-box generation, unevaluated outputs, latent reasoning defects, and the one-off closed-loop limitations of traditional large language models.
-Unlike conventional black-box AI systems, AIGEA implements full-link open-box argumentation, active self-evaluation, explicit missing-dimension marking, and Off-On bidirectional controllable iteration, enabling AI responses to be fully credible, traceable, evaluable, and continuously iterable.
+- AIGEA (Artificial Intelligence Glass-box Evidence Argument) is a patent-verified transparent QA reasoning framework designed to address black-box generation, unevaluated outputs, latent reasoning defects, and the one-off closed-loop limitations of traditional large language models.
+- Unlike conventional black-box AI systems, AIGEA implements full-link open-box argumentation, active self-evaluation, explicit missing-dimension marking, and Off-On bidirectional controllable iteration, enabling AI responses to be fully credible, traceable, evaluable, and continuously iterable.
 
 ---
 📄 Patent-pending
-Patent No.: 2026109523407
-Patent Name: A Credible Source Verified AIGEA Continuous Self-Evaluation Q&A Argument Method and System
-Applicant: Beijing Youdi Technology Co., Ltd.
-Inventor: Wei Pengchen
-Filing Date: 2026-06-29
+- Patent No.: 2026109523407
+- Patent Name: A Credible Source Verified AIGEA Continuous Self-Evaluation Q&A Argument Method and System
+- Applicant: Beijing Youdi Technology Co., Ltd.
+- Inventor: Wei Pengchen
+- Filing Date: 2026-06-29
 
 ---
 ✨ Core Technical Features
@@ -50,7 +50,6 @@ High-trust scenarios such as policy interpretation, legal reasoning, academic ve
 📝 Defensive Disclosure and Prior Art Statement
 - This repository and the complete patent technical documents constitute a defensive public disclosure of the full AIGEA technical architecture.
 - All technical solutions recorded in the patent specification, claims, and open‑source framework logic are hereby made publicly available as prior art to the entire industry.
-
 - The legal effect of this defensive disclosure is as follows:
 1. All disclosed technical solutions lose novelty for patent‑filing purposes. No third party may apply for or obtain invention patents covering identical or substantially equivalent technical architectures, pipelines, or mechanisms of AIGEA.
 2. The author does not claim any exclusive patent rights over the disclosed general technical framework. Any enterprise, research institution, or individual developer is entitled to independently implement, deploy, iterate, and commercialize the disclosed technical solutions without additional patent‑licensing authorization.
