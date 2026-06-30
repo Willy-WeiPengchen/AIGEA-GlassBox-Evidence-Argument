@@ -43,7 +43,7 @@ High-trust scenarios such as policy interpretation, legal reasoning, academic ve
 📝 Open Source Statement
 This repository discloses framework logic and peripheral implementation for academic research and open industry reference.
 Core technologies and key control mechanisms are protected by independent core patents.
-Commercial applications are permitted only if no monopolistic secondary modification, computational-power-oriented rule tampering, or closed-source repackaging behavior is involved. All restrictive, monopoly-driven modifications are strictly prohibited without official written authorization.
+Open for public innovation, academic research, and commercial adoption. We encourage ecosystem-wide adoption and contribution.
 Open for public innovation, resisting computational power monopoly, protecting grassroots creators, and sustaining industrial innovation vitality.
 
 ---
