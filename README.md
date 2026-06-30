@@ -10,7 +10,7 @@ AIGEA (Artificial Intelligence Glass-box Evidence Argument) is a patent-verified
 Unlike conventional black-box AI systems, AIGEA implements full-link open-box argumentation, active self-evaluation, explicit missing-dimension marking, and Off-On bidirectional controllable iteration, enabling AI responses to be fully credible, traceable, evaluable, and continuously iterable.
 
 ---
-📄 Patent Authorization
+📄 Patent-pending
 Patent No.: 2026109523407
 Patent Name: A Credible Source Verified AIGEA Continuous Self-Evaluation Q&A Argument Method and System
 Applicant: Beijing Youdi Technology Co., Ltd.
@@ -48,18 +48,19 @@ High-trust scenarios such as policy interpretation, legal reasoning, academic ve
 
 ---
 📝 Defensive Disclosure and Prior Art Statement
-This repository and the complete patent technical documents constitute a defensive public disclosure of the full AIGEA technical architecture.
-All technical solutions recorded in the patent specification, claims, and open‑source framework logic are hereby made publicly available as prior art to the entire industry.
-The legal effect of this defensive disclosure is as follows:
+- This repository and the complete patent technical documents constitute a defensive public disclosure of the full AIGEA technical architecture.
+- All technical solutions recorded in the patent specification, claims, and open‑source framework logic are hereby made publicly available as prior art to the entire industry.
+
+- The legal effect of this defensive disclosure is as follows:
 1. All disclosed technical solutions lose novelty for patent‑filing purposes. No third party may apply for or obtain invention patents covering identical or substantially equivalent technical architectures, pipelines, or mechanisms of AIGEA.
 2. The author does not claim any exclusive patent rights over the disclosed general technical framework. Any enterprise, research institution, or individual developer is entitled to independently implement, deploy, iterate, and commercialize the disclosed technical solutions without additional patent‑licensing authorization.
 Distinct intellectual‑property protection boundaries remain clearly defined:
-- The full text of patent specifications, claims, and supporting theoretical systems is permanently protected under the CC BY‑NC‑ND 4.0 License, independent of the prior‑art status of the technical solutions. Without explicit written authorization, any act including text modification, derivative rewriting, commercial reproduction, and commercial use as training data for large‑language models is prohibited.
-- All source‑code implementation rights shall comply solely with the terms of the Apache 2.0 License.
+  - The full text of patent specifications, claims, and supporting theoretical systems is permanently protected under the CC BY‑NC‑ND 4.0 License, independent of the prior‑art status of the technical solutions. Without explicit written authorization, any act including text modification, derivative rewriting, commercial reproduction, and commercial use as training data for large‑language models is prohibited.
+  - All source‑code implementation rights shall comply solely with the terms of the Apache 2.0 License.
   
 ---
 🤝 Ecosystem Cooperation
-actively promote the co-construction of a long-term benign developmental circular ecosystem with mainstream domestic and international AI infrastructure providers including Huawei, ByteDance, DeepSeek, Alibaba, Baidu, Tencent, OpenAI, Gemini and other industry players, and are committed to building a transparent, trustworthy, controllable and  inclusive global AI underlying paradigm.
+**Actively promote** the co-construction of a long-term, benign, circular development ecosystem with mainstream domestic and international AI infrastructure providers including Huawei, ByteDance, DeepSeek, Alibaba, Baidu, Tencent, OpenAI, Gemini**,** and other industry players**,** and are committed to building a transparent, trustworthy, controllable**,** and inclusive global AI underlying paradigm.
 
 - Pengchen Wei
 - wpc616@aliyun.com
