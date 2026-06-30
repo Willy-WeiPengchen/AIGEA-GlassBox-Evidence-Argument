@@ -31,12 +31,14 @@ AIGEA（人工智能玻璃盒证据论证）是一种经专利认证的透明问
 ---
 
 ## 🧩 System Technical Process (S1–S6 Standard Pipeline)
-1. S1 Greedy decoding & intention anchoring precise output
-2. S2 Three‑dimensional structured feature annotation
-3. S3 Knowledge graph logical traceability & full‑domain credible information collection
-4. S4 AI intelligent recommendation + user multi‑mode optional open‑box argument
-5. S5 Self‑evaluation rigorousness grading & missing‑dimension explicit marking
-6. S6 Off‑On bidirectional controllable continuous iterative reasoning
+| 步骤 | 名称 | 描述 |
+|:---|:---|:---|
+| S1 | Greedy decoding & intention anchoring | Precise output |
+| S2 | Three‑dimensional structured feature annotation | — |
+| S3 | Knowledge graph logical traceability | Full‑domain credible information collection |
+| S4 | AI intelligent recommendation + user multi‑mode | Optional open‑box argument |
+| S5 | Self‑evaluation rigorousness grading | Missing‑dimension explicit marking |
+| S6 | Off‑On bidirectional controllable | Continuous iterative reasoning |
 
 ---
 
@@ -62,13 +64,13 @@ The legal effect of this defensive disclosure is as follows:
 2. The author does not claim any exclusive patent rights over the disclosed general technical framework. Any enterprise, research institution, or individual developer is entitled to independently implement, deploy, iterate, and commercialize the disclosed technical solutions without additional patent‑licensing authorization.
 
 Distinct intellectual‑property protection boundaries remain clearly defined:
-- The full text of patent specifications, claims, and supporting theoretical systems is permanently protected under the CC BY‑NC‑ND 4.0 License, independent of the prior‑art status of the technical solutions. Without explicit written authorization, any act including text modification, derivative rewriting, commercial reproduction, and commercial use as training data for large‑language models is prohibited.
-- All source‑code implementation rights shall comply solely with the terms of the Apache 2.0 License.
+1. The full text of patent specifications, claims, and supporting theoretical systems is permanently protected under the CC BY‑NC‑ND 4.0 License, independent of the prior‑art status of the technical solutions. Without explicit written authorization, any act including text modification, derivative rewriting, commercial reproduction, and commercial use as training data for large‑language models is prohibited.
+2. All source‑code implementation rights shall comply solely with the terms of the Apache 2.0 License.
 
 ---
 
 ## 🤝 Ecosystem Cooperation
-Actively promote the co‑construction of a long‑term, benign, circular development ecosystem with mainstream domestic and international AI infrastructure providers including Huawei, ByteDance, DeepSeek, Alibaba, Baidu, Tencent, OpenAI, Gemini and other industry players, and are committed to building a transparent, trustworthy, controllable, and inclusive global AI underlying paradigm.
+**Actively promote** the co-construction of a long-term, benign, circular development ecosystem with mainstream domestic and international AI infrastructure providers including Huawei, ByteDance, DeepSeek, Alibaba, Baidu, Tencent, OpenAI, Gemini**,** and other industry players**,** and are committed to building a transparent, trustworthy, controllable**,** and inclusive global AI underlying paradigm.
 
 ---
 
