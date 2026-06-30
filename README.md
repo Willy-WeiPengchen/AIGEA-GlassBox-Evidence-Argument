@@ -41,10 +41,8 @@ High-trust scenarios such as policy interpretation, legal reasoning, academic ve
 
 ---
 📝 Open Source Statement
-This repository discloses framework logic and peripheral implementation for academic research and open industry reference.
-Core technologies and key control mechanisms are protected by independent core patents.
-Open for public innovation, academic research, and commercial adoption. We encourage ecosystem-wide adoption and contribution.
-Open for public innovation, resisting computational power monopoly, protecting grassroots creators, and sustaining industrial innovation vitality.
+This repository provides the framework logic and peripheral implementations for academic research and open industry reference.  
+Under the open-source license, it is freely available for public innovation, academic research, and commercial applications, and we encourage adoption and contributions from the entire ecosystem.
 
 ---
 🤝 Ecosystem Cooperation
