@@ -2,11 +2,11 @@
 
 This repository is dual-licensed:
 
-## Code (source code, scripts, program logic)
+## The Code (source code, scripts, program logic)
 Licensed under the **Apache License 2.0**  
 → https://www.apache.org/licenses/LICENSE-2.0
 
-## Theory, patent specification, and patent claim documents
+## The patent specification, claims, and accompanying theoretical documents
 Licensed under the **CC BY-NC-ND 4.0**  
 → https://creativecommons.org/licenses/by-nc-nd/4.0/
 
