@@ -52,7 +52,6 @@ High‑trust scenarios such as policy interpretation, legal reasoning, academic 
 - The code is licensed under the Apache 2.0 License; the patent specification, claims, and accompanying theoretical documents are licensed under the CC BY‑NC‑ND 4.0 License. For details, please see the LICENSE file.
 
 ---
-
 ## 📝 Defensive Disclosure and Prior Art Statement
 This repository and the complete patent technical documents constitute a defensive public disclosure of the full AIGEA technical architecture.
 All technical solutions recorded in the patent specification, claims, and open‑source framework logic are hereby made publicly available as prior art to the entire industry.
@@ -66,6 +65,8 @@ Distinct intellectual‑property protection boundaries remain clearly defined:
 2. All source‑code implementation rights shall comply solely with the terms of the Apache 2.0 License.
 
 ---
+## 🚫 Infringement Filing Prohibition
+No individual or organization may independently apply for national, provincial, ministerial or other government-funded science and technology projects based on the theoretical system or patented technologies of AIGEA without explicit written authorization from the inventor. Any such unauthorized application shall be deemed plagiarism and intellectual property infringement.
 
 ## 🤝 Ecosystem Cooperation
 **Actively promote** the co-construction of a long-term, benign, circular development ecosystem with mainstream domestic and international AI infrastructure providers including Huawei, ByteDance, DeepSeek, Alibaba, Baidu, Tencent, OpenAI, Gemini, and other industry players, and are committed to building a transparent, trustworthy, controllable, and inclusive global AI underlying paradigm.
