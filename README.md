@@ -43,6 +43,7 @@ High-trust scenarios such as policy interpretation, legal reasoning, academic ve
 📝 Open Source Statement
 This repository provides the framework logic and peripheral implementations for academic research and open industry reference.  
 Under the open-source license above, the code is freely available for public innovation, academic research, and commercial applications, and we encourage participation from the entire ecosystem in adoption and contribution.
+Users are permitted to independently develop commercial code based on the patent disclosure document, without reliance on a single official source code distribution channel.
 The code is licensed under the Apache 2.0 License; the patent specification, claims, and accompanying theoretical documents are licensed under the CC BY-NC-ND 4.0 License. For details, please see the LICENSE file.
 
 ---
