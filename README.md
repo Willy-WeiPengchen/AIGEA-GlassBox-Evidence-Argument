@@ -42,7 +42,7 @@ High-trust scenarios such as policy interpretation, legal reasoning, academic ve
 ---
 📝 Open Source Statement
 This repository provides the framework logic and peripheral implementations for academic research and open industry reference.  
-Under the open-source license, it is freely available for public innovation, academic research, and commercial applications, and we encourage adoption and contributions from the entire ecosystem.
+Under the open-source license above, the code is freely available for public innovation, academic research, and commercial applications, and we encourage participation from the entire ecosystem in adoption and contribution.
 
 ---
 🤝 Ecosystem Cooperation
