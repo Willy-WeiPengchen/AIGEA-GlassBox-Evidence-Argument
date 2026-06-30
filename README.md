@@ -37,7 +37,7 @@ S6 Off-On bidirectional controllable continuous iterative reasoning
 
 ---
 🌲 Application Scenarios
-Policy interpretation, legal reasoning, academic verification, public figure traceability, original creation right confirmation, financial deduction, medical analysis, digital-real integration high-credibility scenarios.
+High-trust scenarios such as policy interpretation, legal reasoning, academic verification, tracing public figures, original rights confirmation, financial audits, medical analysis, and the integration of digital and real-world environments.
 
 ---
 📝 Open Source Statement
@@ -48,8 +48,8 @@ Open for public innovation, resisting computational power monopoly, protecting g
 
 ---
 🤝 Ecosystem Cooperation
-We will actively promote the co-construction of a long-term benign developmental circular ecosystem with mainstream domestic and international AI infrastructure providers including Huawei, ByteDance, DeepSeek, Alibaba, Baidu, Tencent, OpenAI, Gemini and other industry players, and are committed to building a transparent, trustworthy, controllable and  inclusive global AI underlying paradigm.
+actively promote the co-construction of a long-term benign developmental circular ecosystem with mainstream domestic and international AI infrastructure providers including Huawei, ByteDance, DeepSeek, Alibaba, Baidu, Tencent, OpenAI, Gemini and other industry players, and are committed to building a transparent, trustworthy, controllable and  inclusive global AI underlying paradigm.
 
-Pengchen Wei
-wpc616@aliyun.com
-2026.6.30
+- Pengchen Wei
+- wpc616@aliyun.com
+- 2026.6.30
